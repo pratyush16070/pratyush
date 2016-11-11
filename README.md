@@ -1,0 +1,2 @@
+# pratyush
+linear algebra ppts 
