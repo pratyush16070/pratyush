@@ -1,0 +1,30 @@
+Q1. Which of the following describe equivalence relations? For those which are not equivalence relations, specify which of ( R,S, and T) fail, and illustrate the failures with examples:
+a) L1 parallel to L2 for straight lines in the plane if L1 and L2 are the same or are parallel.
+b) L1 perpendicular to L2 for straight lines in the plane if L1 and L2 are perpendicular .
+c) p1 similar to p2 for Americans if p1 and p2 live in the same state.
+d) p1 ( double tilda) p2 for Americans if p1 and p2 live in the same state or in the neighbouring state
+e) p1 ( double tilda) p2 for people if p1 and p2 have a parent in common.
+f) p1 congruent p2 for people if p1 and p2 have the same mother.
+Q2. For each example of an equivalence relation in Ex 1., describe the members of some equivalence class.
+Q3. Let S be a set. Is equality, that is , " = ", an equivalence relation?
+Q4. Define the relation ( triple lines) on Z by m( triple line ) n in case m-n is even. Is triple horizontal line an equivalence relation? Explain.
+Q5. If G and H are both graphs with vertex set {1,2,...,n}, we say that G is isomorphic to H and write G(line with tilda above ) H, in case tthere is a way to label the vertices of G so that it becomes H. For eg: , the graph in fig 3, with vertex set {1,2,3}, are isomorphic by relabeling function of 1=2, function of 2=3 and function of 3=1.
+a. give a picture of another graph isomorphic to these two.
+b. Find a graph with vertex set {1,2,3} that is not isomorphic to the graph in figure 3, yet has 3 edges,exactly one of which is a loop.
+c. Find another example as in part b that is not isomorphic to the one you found in part b[ or the ones in fig. 3]
+d. Show that (line with tilda above ) is an equivalenc relation on the set of all graphs with vertex set {1,2,...,n}.
+Q6. Can you think of situations in life where you have used the term "equivalent " and where a natural equivalence relation is involved?
+Q7. Define the relation ( double tilda) on Z by m ( double tilda)n in case m^2=n^2
+a. Show that ( double tilda is an equivalence relation on Z)
+b. Describe the equivalence classes for double tilda. How many are there.
+Q8. 
+a. For m,n belongs to Z,  define m tilda n in case m-n is odd. Is the relation tilda reflexive? symetric? transitive? Is tilda an equivalence relation?
+b. For a, b in R, define a tilda b in case mode of (a-b) <=1. one could say that a tilda b in case a and b are " close enough " or " approximately equal". Answer the question in part a.
+Q9. Consider the function g and h mapping Z into n defined by g(n)=|n| and h(n)=1+(-1)^n.
+a. Describe the set in the partition {g(<-)(k): k is in the  co domain of g} of Z. How many set are there.
+b. Describe the set in the partition {h(<-)(k): k is in the co domain of h} of Z. How many set are there.
+Q10. On the set N x N define (m,n) tilda (k,l) if m+l=n+k.
+a. Show that tilda is an equivalence relation on N x N
+b. Draw a sketch of N x N that shows several equivalence classes.
+Q11. Let sigma(doubt) be an alphabet, and for w1 and w2 in sigma* define w1 tilda w2 if length ( w1)=length(w2). Explain why tilda is an equivalence relation, and describe the equivalence classess.
+Q12. Let P be a set of computer programmes and regard programmes p1 and p2 as equivalent if they always produce the same output for given inputs. Is this an equivalence relation on P? Explain. 
